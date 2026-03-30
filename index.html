@@ -8,11 +8,14 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <canvas class="board">
-
-    </canvas>
-
-
+    <canvas class="board"></canvas>
+    <div id="gameOverPopup" class="popup">
+        <div class="popup-content">
+            <h2>Game Over</h2>
+            <p id="finalScore"></p>
+            <button onclick="restartGame()">Restart</button>
+        </div>
+    </div>
     <script src="script.js"></script>
 </body>
 </html>
