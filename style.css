@@ -1,0 +1,15 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+html,body{    
+    height: 100%;
+    width: 100%;
+    background-color: rgb(178, 179, 179);
+    text-align: center;
+}
+.board{
+    background-color:#222;
+    margin-top: 5vh;
+}
