@@ -6,3 +6,5 @@ b - blueGhost
 p - pinkGhost
 o - orangeGhost
 P - Pacman
+empty space is food and big O used for empty space
+
